@@ -16,3 +16,10 @@ ai4i-predictive-maintenance/
 ├── dashboard/                # Streamlit or Flask dashboard
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
+
+## Dataset
+
+This project uses the **AI4I 2020 Predictive Maintenance Dataset**, available under a CC BY 4.0 license.
+
+Download link:  
+https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
